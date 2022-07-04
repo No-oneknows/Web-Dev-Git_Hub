@@ -1,1 +1,2 @@
 This is my first time with git.
+Let's make a second file.
